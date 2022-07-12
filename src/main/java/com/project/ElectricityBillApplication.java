@@ -9,6 +9,7 @@ public class ElectricityBillApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ElectricityBillApplication.class, args);
 		System.out.println("Hello World");
+		System.out.println("Hello World");
 	}
 
 }
